@@ -1,0 +1,52 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.3.1 Safari/537.36" version="26.0.9">
+  <diagram name="Página-1" id="KFA120MW4DZ8DbEki9FK">
+    <mxGraphModel dx="819" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="caxptikzbSzlzL6WUXQs-2" value="Topic 2: Foundations of Probability Theory" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="caxptikzbSzlzL6WUXQs-3" value="Counting Techniques" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="caxptikzbSzlzL6WUXQs-4" value="&lt;ul data-sourcepos=&quot;7:1-12:0&quot;&gt;&lt;li data-sourcepos=&quot;7:1-7:131&quot;&gt;&lt;strong&gt;Multiplicative Principle:&lt;/strong&gt; The total number of ways a process can occur is the product of the number of options at each stage.&lt;/li&gt;&#xa;&lt;li data-sourcepos=&quot;8:1-8:116&quot;&gt;&lt;strong&gt;Additive Principle:&lt;/strong&gt; The total number of ways a process can occur is the sum of its mutually exclusive options.&lt;/li&gt;&#xa;&lt;li data-sourcepos=&quot;9:1-9:83&quot;&gt;&lt;strong&gt;Permutations:&lt;/strong&gt; An arrangement of elements where the order or position matters.&lt;/li&gt;&#xa;&lt;li data-sourcepos=&quot;10:1-10:87&quot;&gt;&lt;strong&gt;Combinations:&lt;/strong&gt; A selection of elements from a set where the order does not matter.&lt;/li&gt;&#xa;&lt;li data-sourcepos=&quot;11:1-12:0&quot;&gt;&lt;strong&gt;Tree Diagram:&lt;/strong&gt; Visualizes sequences of events and outcomes as branches of a tree, helping to analyze probabilities and decisions.&lt;/li&gt;&#xa;&lt;/ul&gt;&lt;p data-sourcepos=&quot;13:1-13:33&quot;&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="60" width="560" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="caxptikzbSzlzL6WUXQs-6" value="&lt;p data-sourcepos=&quot;13:1-13:33&quot;&gt;&lt;strong&gt;Elementary Probability Theory&lt;/strong&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="caxptikzbSzlzL6WUXQs-7" value="&lt;ul data-sourcepos=&quot;15:1-19:0&quot;&gt;&lt;li data-sourcepos=&quot;15:1-15:88&quot;&gt;&lt;strong&gt;Random Experiment:&lt;/strong&gt; A set of trials whose outcomes are determined solely by chance.&lt;/li&gt;&#xa;&lt;li data-sourcepos=&quot;16:1-16:76&quot;&gt;&lt;strong&gt;Sample Space:&lt;/strong&gt; The set of all possible outcomes of a random experiment.&lt;/li&gt;&#xa;&lt;li data-sourcepos=&quot;17:1-17:73&quot;&gt;&lt;strong&gt;Sample Point:&lt;/strong&gt; The outcome of a single trial of a sample experiment.&lt;/li&gt;&#xa;&lt;li data-sourcepos=&quot;18:1-19:0&quot;&gt;&lt;strong&gt;Event:&lt;/strong&gt; Any subset of sample points.&lt;/li&gt;&#xa;&lt;/ul&gt;&lt;p data-sourcepos=&quot;20:1-20:25&quot;&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="560" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="caxptikzbSzlzL6WUXQs-8" value="Probability of Events" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="580" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="caxptikzbSzlzL6WUXQs-9" value="Operations with Events" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="540" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="caxptikzbSzlzL6WUXQs-10" value="&lt;li data-sourcepos=&quot;23:5-23:11&quot;&gt;Union&lt;/li&gt;&#xa;&lt;li data-sourcepos=&quot;24:5-24:18&quot;&gt;Intersection&lt;/li&gt;&#xa;&lt;li data-sourcepos=&quot;25:5-25:16&quot;&gt;Difference&lt;/li&gt;&#xa;&lt;li data-sourcepos=&quot;26:5-26:16&quot;&gt;Complement&lt;/li&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="500" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="caxptikzbSzlzL6WUXQs-12" value="&lt;strong&gt;Venn Diagram:&lt;/strong&gt; Closed regions, usually circles, used to visualize the contents of a set" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="650" width="490" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="caxptikzbSzlzL6WUXQs-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="50" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="caxptikzbSzlzL6WUXQs-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="caxptikzbSzlzL6WUXQs-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="370" y="350" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="caxptikzbSzlzL6WUXQs-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="574" y="490" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="caxptikzbSzlzL6WUXQs-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="370" y="490" width="20" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,270 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
+  <diagram name="Page-1" id="NST5FlfF78wPRLViYxS6">
+    <mxGraphModel dx="2752" dy="2863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-1" value="Estadistica Descriptiva" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;" parent="1" vertex="1">
+          <mxGeometry x="360" y="42.5" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-4" value="Conceptos básicos de esadística" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="700" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-6" value="Definición" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="887" y="1035" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-8" value="Teoría de decisión" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="925" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-10" value="Población" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-12" value="Muestra aleatoria" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="715" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-14" value="Parámetros aleatorios" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="604" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-16" value="Rama de las matemáticas que recopila, organiza, analiza e interpreta datos." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1036.5" y="1027" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-18" value="Aplicación de modelos estadísticos para tomar decisiones basadas en datos." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1036.5" y="920" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-20" value="Conjunto total de elementos bajo estudio" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1043.5" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-22" value="Subconjunto representativo de la población, seleccionado al azar." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1046.5" y="710" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-24" value="Valores numéricos que describen características de una población" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1051.5" y="600" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-26" value="Descripción de datos" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="716.5" y="-205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-28" value="Datos agrupados" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="886.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-30" value="Datos no agrupados" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="886.5" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-32" value="Organizados en intervalos o clases." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1046.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-34" value="Listados individualmente sin organización previa." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1053.5" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-37" value="&lt;strong data-end=&quot;1869&quot; data-start=&quot;1845&quot;&gt;Frecuencia de clase&lt;/strong&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="886.5" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-39" value="Número de veces que un dato aparece en una categoría." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1046.5" y="-165" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-41" value="Frecuencia relativa" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="886.5" y="-235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-43" value="Proporción de una frecuencia respecto al total." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1046.5" y="-235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-47" value="Punto medio" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="886.5" y="-310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-49" value="Valor central de un intervalo de clase." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1046.5" y="-310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-51" value="Límites" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="886.5" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-53" value="&lt;div&gt;Valores extremos que definen cada clase en una tabla de frecuencias.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1043.5" y="-397.5" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-55" value="&lt;h3 data-end=&quot;2206&quot; data-start=&quot;2151&quot;&gt;&lt;strong data-end=&quot;2204&quot; data-start=&quot;2155&quot;&gt;Medidas de tendencia central y dispersión&lt;/strong&gt;&lt;/h3&gt;&lt;h4 data-end=&quot;2246&quot; data-start=&quot;2207&quot;&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="-800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-57" value="Medidas de tendencia central" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="-617.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-59" value="&lt;h4 data-end=&quot;2609&quot; data-start=&quot;2577&quot;&gt;&lt;strong data-end=&quot;2607&quot; data-start=&quot;2582&quot;&gt;Medidas de dispersión&lt;/strong&gt;&lt;/h4&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="-960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-61" value="Media aritmética" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="-510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-63" value="Promedio de los valores" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="-510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-70" value="Mediana" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="-610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-72" value="Valor central cuando los datos están ordenados." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="-610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-74" value="Moda" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="-705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-76" value="Valor que más se repite en un conjunto de datos." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="-705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-78" value="Varianza" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="-1095" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-80" value="Promedio del cuadrado de las diferencias respecto a la media." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="-1097.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-82" value="Desviación estándar" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="-1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-84" value="Raíz cuadrada de la varianza, mide la dispersión de los datos." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="-1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-86" value="Desviación media" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="-920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-88" value="&lt;div&gt;Promedio de las diferencias absolutas respecto a la media.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="-920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-90" value="Rango" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="-830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-92" value="Diferencia entre el valor máximo y el mínimo." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="-830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-96" value="Parámetros para datos agrupados" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="720" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-98" value="Cálculo de media, mediana, moda y medidas de dispersión en datos organizados en intervalos." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="872" y="1165" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-100" value="Distribución de frecuencias" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="720" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-102" value="Organización de datos en una tabla que muestra la frecuencia con la que ocurren los valores." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="877" y="1290" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-104" value="Técnicas de muestreo" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="720" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-106" value="Aleatorio simple" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-108" value="Cada elemento tiene la misma probabilidad de ser seleccionado" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1025" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-110" value="Sistemático" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-112" value="Se elige cada k-ésimo elemento de la población." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="375" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-114" value="Estratificado" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-116" value="Se divide la población en grupos homogéneos y se toma una muestra de cada uno." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="240" width="134" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-118" value="Por conglomerados" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R56C_H3UZnoEc6lz3DLw-120" value="Se seleccionan grupos completos en lugar de individuos." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="820" y="585" width="70" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="840" y="105" width="30" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="845" y="1150" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1285" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1016.5" y="-400" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1016.5" y="-310" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1016.5" y="-235" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="1016.5" y="-165" width="20" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="1016.5" y="-87.5" width="20" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="1016.5" y="-7.5" width="20" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="836.5" y="-415" width="37" height="485" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-1100" width="30" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-840" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-930" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-1020" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-1105" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-715" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-620" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-521" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-725" width="25" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-1115" width="50" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1016.5" y="1019" width="20" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1016.5" y="907" width="20" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="813.5" width="20" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="703.5" width="20" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1027" y="593.5" width="20" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1006.5" y="458.5" width="20" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="363.5" width="20" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1006.5" y="235" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;container=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="110" width="20" height="90" as="geometry">
+            <mxRectangle x="840" y="845" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ePeR51Ee3IAsbCOs5Zf8-37" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-1140" width="70" height="2535" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

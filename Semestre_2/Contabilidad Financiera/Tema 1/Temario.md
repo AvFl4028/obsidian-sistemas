@@ -1,0 +1,14 @@
+# Temario
+- Concepto de contabilidad ✅
+- Concepto de información financiera ✅
+- Usuarios ✅
+	- Interno: Ejemplos
+	- Externo: Ejemplos
+- Fines de la contabilidad ✅
+- Obligaciones de llevar contabilidad en México
+- Actividades empresariales
+- Tipos de contabilidad ✅
+- Las NIF(Series)
+- ¿Qué es el contador - PF(Persona Física) - PM(Persona Moral)? ✅
+- Características cualitativas de la información financiera ✅
+- Características cualitativas de los estados financieros.
