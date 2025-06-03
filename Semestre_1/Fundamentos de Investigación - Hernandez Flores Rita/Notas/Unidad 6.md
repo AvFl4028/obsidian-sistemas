@@ -1,0 +1,4 @@
+- Documentar un proyecto de los 3 y añadirle cosas de innovacion
+- documentar objetivo smart
+- tiempo de realizacion: 2 - 12 meses
+- 

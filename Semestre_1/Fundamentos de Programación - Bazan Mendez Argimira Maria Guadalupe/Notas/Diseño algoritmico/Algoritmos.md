@@ -1,0 +1,2 @@
+# Algoritmos
+Los algoritmos son secuencias finitas de instrucciones bien definidas y ordenadas que, al ser ejecutadas, resuelven un problema específico o realizan una tarea particular. Son fundamentales en programación, ya que representan la solución estructurada que posteriormente será implementada en un lenguaje de programación.
